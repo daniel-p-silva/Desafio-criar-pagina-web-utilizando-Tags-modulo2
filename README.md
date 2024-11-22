@@ -26,4 +26,4 @@ As páginas devem seguir a seguinte estrutura:
 - **Rodapé (Footer)**: O rodapé deve conter informações de contato da clínica, como telefone e endereço.
 
 ### Conclusão
-Este projeto proporcionará a prática e aplicação dos conhecimentos adquiridos durante o módulo, permitindo a criação de um site funcional e informativo para uma clínica médica fictícia.
+Este projeto tem como objetivo a prática e aplicação dos conhecimentos adquiridos durante o módulo, permitindo a criação de um site funcional e informativo para uma clínica médica fictícia.
